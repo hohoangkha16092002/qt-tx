@@ -1,4 +1,4 @@
-# qt-taixiu
+# qt-tx
 Đây là một đoạn script được convert từ ESX về QBCore.
 # PHỤ THUỘC
 * [qbcore framework](https://github.com/qbcore-framework)
