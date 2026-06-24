@@ -6,10 +6,10 @@
 # CÁCH CÀI ĐẶT
 * Tải nó trên github và giải nén nó ra
 * Kéo file vừa giải nén vào resource server của bạn
-* Đổi tên `qt-taixiu-main` thành `qt-taixiu`
+* Đổi tên `qt-tx-main` thành `qt-tx`
 
 # CÁCH SỬ DỤNG
 * Ấn dấu `=` để mở UI
-* Sử dụng lệnh `/battaixiu` để cho phép người chơi tham gia tài xỉu
+* Sử dụng lệnh `/battx` để cho phép người chơi tham gia tx
 
 DONE
